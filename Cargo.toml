@@ -2,6 +2,8 @@
 name = "tcy_my_crate"
 version = "0.1.0"
 edition = "2018"
+description = "a demo projec to learn how deploy on crates.io"
+licence = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
