@@ -8,7 +8,7 @@
 ///
 /// ```
 /// let arg = 41;
-/// let answer = my_crate::add_one(arg);
+/// let answer = tcy_my_crate::add_one(arg);
 ///
 /// assert_eq!(42, answer);
 /// ```
